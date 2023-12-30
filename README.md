@@ -15,6 +15,9 @@ The dataset provided comprises Car Insurance Claims data. It includes various fe
 The project will follow these key steps:
 
 **Data Exploration**: Analyze and clean the dataset to understand its structure and variables.
+
 **Visual Storytelling**: Create a logical flow of insights through different plots and visualizations.
+
 **Interactive Dashboards**: Develop interactive and responsive dashboards presenting key findings.
+
 **Storyboard Presentation**: Construct a comprehensive storyline with an end objective, clear insights, and actionable recommendations.
